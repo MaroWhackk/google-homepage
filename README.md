@@ -1,2 +1,3 @@
 # google-homepage
-Project 1
+Google Homepage Project
+theodinproject.com
